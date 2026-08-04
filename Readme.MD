@@ -34,7 +34,7 @@ pip install pandas matplotlib scikit-learn
 ## How to run
 
 1. Ensure `fear_greed_index.csv` and `historical_data.csv` are in the project root.
-2. Open `DS_Internship.ipynb` and run all cells top to bottom (Kernel → Restart & Run All).
+2. Open `DS_Internship.ipynb` and run all cells top to bottom (Restart Session & Run All).
 3. Outputs (charts and CSVs) are written to the `outputs/` folder.
 4. See `WRITEUP.md` for the interpreted findings and strategy recommendations.
 
