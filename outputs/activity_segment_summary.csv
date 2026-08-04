@@ -1,0 +1,7 @@
+activity_segment,sentiment_group,avg_daily_pnl,avg_win_rate,avg_trades,count
+Frequent,Fear,121690.12,0.43,7335.5,16
+Frequent,Greed,44579.55,0.41,2233.22,18
+Frequent,Neutral,-4562.5,0.26,1692.0,4
+Infrequent,Fear,55196.9,0.4,1031.44,16
+Infrequent,Greed,8695.36,0.33,160.68,19
+Infrequent,Neutral,107.38,0.26,93.25,4

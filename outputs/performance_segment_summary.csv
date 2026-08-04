@@ -1,0 +1,7 @@
+performance_segment,sentiment_group,avg_daily_pnl,avg_win_rate,avg_trades,count
+Consistent Winner,Fear,34186.06,0.48,5110.0,16
+Consistent Winner,Greed,61076.17,0.57,1547.6,15
+Consistent Winner,Neutral,0.16,0.37,98.0,3
+Inconsistent,Fear,141952.72,0.35,3256.94,16
+Inconsistent,Greed,2200.03,0.23,910.77,22
+Inconsistent,Neutral,-1.0,0.19,1369.4,5

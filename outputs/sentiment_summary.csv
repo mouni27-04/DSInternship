@@ -1,0 +1,4 @@
+sentiment_group,avg_daily_pnl,median_daily_pnl,avg_win_rate,total_trades,avg_trades_per_day,avg_trade_size,avg_long_short_ratio,total_liquidations,num_trader_days
+Fear,209372.66,81389.68,0.42,133871,4183.47,5926.52,720.61,0,32
+Greed,90988.7,20925.51,0.37,43251,1168.95,5637.3,153.71,0,37
+Neutral,19842.8,-0.42,0.26,7141,892.62,3793.44,31.99,0,8
